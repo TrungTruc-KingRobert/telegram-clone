@@ -25,6 +25,10 @@
   padding: 2px;
 }
 
+.sidebar__searchIcon {
+  cursor: pointer;
+}
+
 .sidebar__input {
   border: none;
   background-color: transparent;
@@ -54,7 +58,7 @@
   display: flex;
   justify-content: space-evenly;
   padding: 10px 20px;
-  border-top: 1px solid rgba(190, 190, 190 .1);
+  border-top: 1px solid rgba(190, 190, 190, .1);
 }
 
 .sidebar__bottom__avatar:hover {

@@ -1,0 +1,14 @@
+.modalAlert {
+  text-align: center;
+}
+
+.modalAlert__icon {
+  color: #ffc107;
+  font-size: 2.5rem !important;
+}
+
+.modalAlert__button:hover {
+  background-color: #ffc107 !important;
+  color: #ffffff !important;
+  border-color:  #ffc107 !important;
+}
